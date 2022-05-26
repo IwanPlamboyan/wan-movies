@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wan-movies/static/css/main.74e34e06.css",
+    "main.js": "/wan-movies/static/js/main.6447c1eb.js",
+    "static/js/787.975df97f.chunk.js": "/wan-movies/static/js/787.975df97f.chunk.js",
+    "static/media/bg-bioskop.jpg": "/wan-movies/static/media/bg-bioskop.50486a51f95945746678.jpg",
+    "index.html": "/wan-movies/index.html",
+    "main.74e34e06.css.map": "/wan-movies/static/css/main.74e34e06.css.map",
+    "main.6447c1eb.js.map": "/wan-movies/static/js/main.6447c1eb.js.map",
+    "787.975df97f.chunk.js.map": "/wan-movies/static/js/787.975df97f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74e34e06.css",
+    "static/js/main.6447c1eb.js"
+  ]
+}
