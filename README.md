@@ -1,3 +1,6 @@
+<h1>Wan Movies</h1>
+<h2>Project ini dibuat hanya untuk belajar mengenai reactJS saja</h2>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
