@@ -1,0 +1,27 @@
+.main {
+  background-color: #101;
+}
+
+.bg-intro {
+  height: 100vh;
+  overflow-x: hidden;
+  background-image: url('../assets/images/bg/bg-bioskop.jpg');
+  background-size: cover;
+}
+
+.welcome {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-shadow: 2px 2px black;
+  height: 75vh;
+  font-weight: 800;
+}
+
+.cardMovies {
+  background-color: #deeeee !important;
+}
+
+.images {
+  height: 500px;
+}
